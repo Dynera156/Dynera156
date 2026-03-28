@@ -20,6 +20,7 @@ How to use:
   First time setup the app will create a config.json file this file saves your output folder it will remember it for next time.
 
 4. Make it run on startup (recommended)
+  You can use the automatic file or do it manualy:
   Press Win + R
   Type: shell:startup
   Press Enter
